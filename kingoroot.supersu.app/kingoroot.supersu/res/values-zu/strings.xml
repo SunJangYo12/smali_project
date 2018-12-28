@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Zulazulela ekhaya</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Zulazulela phezulu</string>
+    <string name="e">Izinketho eziningi</string>
+    <string name="f">Kwenziwe</string>
+    <string name="g">Buka konke</string>
+    <string name="h">Khetha uhlelo lokusebenza</string>
+    <string name="i">VALIWE</string>
+    <string name="j">VULIWE</string>
+    <string name="k">Iyasesha...</string>
+    <string name="l">Sula inkinga</string>
+    <string name="m">Umbuzo wosesho</string>
+    <string name="n">Sesha</string>
+    <string name="o">Hambisa umbuzo</string>
+    <string name="p">Ukusesha ngezwi</string>
+    <string name="q">Yabelana no-</string>
+    <string name="r">Yabelana no-%s</string>
+    <string name="s">Goqa</string>
+    <string name="t">Nika amandla</string>
+    <string name="u">I-%1$s ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play.</string>
+    <string name="v">Nika amandla amasevisi we-Google Play</string>
+    <string name="w">Faka</string>
+    <string name="x">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho.</string>
+    <string name="y">Thola amasevisi we-Google Play</string>
+    <string name="z">Iphutha lamasevisi we-Google Play</string>
+    <string name="a0">%1$s inenkinga ngamasevisi e-Google Play. Sicela uzame futhi.</string>
+    <string name="a1">%1$s ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho.</string>
+    <string name="a2">Isibuyekezo</string>
+    <string name="a3">I-%1$s ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play.</string>
+    <string name="a4">Buyekeza amasevisi we-Google Play</string>
+    <string name="a5">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo.</string>
+    <string name="a6">Kudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze.</string>
+    <string name="a7">Vula kufoni</string>
+    <string name="a8">Ngena ngemvume</string>
+    <string name="a9">Ngena ngemvume nge-Google</string>
+    <string name="a_">Sesha</string>
+    <string name="aa">999+</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aq">10.0sp</dimen>
+    <dimen name="ar">13.0sp</dimen>
+    <dimen name="as">10.0sp</dimen>
+    <dimen name="at">14.0sp</dimen>
+    <dimen name="au">14.0sp</dimen>
+    <dimen name="fn">150.0dip</dimen>
+    <dimen name="fo">230.0dip</dimen>
+    <dimen name="fp">14.0sp</dimen>
+    <dimen name="fq">12.0sp</dimen>
+</resources>

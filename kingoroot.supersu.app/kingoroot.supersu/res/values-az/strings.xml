@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Aktiv edin</string>
+    <string name="u">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="v">Google Play xidmətlərini aktiv edin</string>
+    <string name="w">Quraşdırın</string>
+    <string name="x">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="y">Google Play xidmətlərini əldə edin</string>
+    <string name="z">Google Play xidmətləri xətası</string>
+    <string name="a0">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="a1">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string name="a2">Güncəlləyin</string>
+    <string name="a3">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="a4">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="a5">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="a6">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="a7">Telefonda açın</string>
+    <string name="a8">Daxil olun</string>
+    <string name="a9">Google ilə daxil olun</string>
+</resources>

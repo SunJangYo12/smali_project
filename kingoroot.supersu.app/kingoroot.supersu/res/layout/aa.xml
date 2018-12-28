@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/e1" android:layout_marginTop="10.0dip" style="@style/MPreferenceLayout.Preference">
+        <LinearLayout style="@style/MPreferenceLayout.PreferenceContent">
+            <com.kingouser.com.customview.MyDrawbleText android:text="@string/dc" style="@style/MPreferenceWidget.Text.Title" />
+        </LinearLayout>
+        <android.support.v7.widget.SwitchCompat android:layout_gravity="center" android:id="@id/e2" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" />
+    </LinearLayout>
+    <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <LinearLayout android:orientation="vertical" android:id="@id/e3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <com.kingouser.com.customview.MyDrawbleText android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ff303030" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/dx" android:layout_marginTop="10.0dip" android:text="@string/d8" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/e4" android:paddingLeft="8.0dip" android:paddingRight="@dimen/dx" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+            <LinearLayout android:orientation="horizontal" android:background="@drawable/bi" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_marginTop="15.0dip" android:layout_weight="1.0">
+                <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MWidget.Home.ListItem.Button">
+                    <include layout="@layout/notification_tool_layout" />
+                </FrameLayout>
+            </LinearLayout>
+            <CheckBox android:layout_gravity="center_vertical" android:id="@id/e5" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MWidget.ListItem.CheckBox" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/e6" android:paddingLeft="8.0dip" android:paddingRight="@dimen/dx" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+            <LinearLayout android:orientation="horizontal" android:background="@drawable/bi" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_marginTop="15.0dip" android:layout_weight="1.0">
+                <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MWidget.Home.ListItem.Button">
+                    <include layout="@layout/notification_while_tool_layout" />
+                </FrameLayout>
+            </LinearLayout>
+            <CheckBox android:layout_gravity="center_vertical" android:id="@id/e7" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MWidget.ListItem.CheckBox" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

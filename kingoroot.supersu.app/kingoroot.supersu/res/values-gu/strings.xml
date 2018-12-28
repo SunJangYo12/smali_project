@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">સક્ષમ કરો</string>
+    <string name="u">તમે Google Play સેવાઓ સક્ષમ કરશો નહીં ત્યાં સુધી %1$s કાર્ય કરશે નહીં.</string>
+    <string name="v">Google Play સેવાઓ સક્ષમ કરો</string>
+    <string name="w">ઇન્સ્ટૉલ કરો</string>
+    <string name="x">%1$s, Google Play સેવાઓ વગર ચાલશે નહીં, જે તમારા ઉપકરણમાંથી ખૂટે છે.</string>
+    <string name="y">Google Play સેવાઓ મેળવો</string>
+    <string name="z">Google Play સેવાઓની ભૂલ</string>
+    <string name="a0">%1$s ને Google Play સેવાઓમાં મુશ્કેલી આવી રહી છે. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="a1">%1$s, Google Play સેવાઓ વગર ચાલશે નહીં, જે તમારા ઉપકરણ દ્વારા સમર્થિત નથી.</string>
+    <string name="a2">અપડેટ કરો</string>
+    <string name="a3">તમે Google Play સેવાઓ અપડેટ કરશો નહીં ત્યાં સુધી %1$s શરૂ થશે નહીં.</string>
+    <string name="a4">Google Play સેવાઓ અપડેટ કરો</string>
+    <string name="a5">%1$s, Google Play સેવાઓ વગર શરૂ થશે નહીં, જે વર્તમાનમાં અપડેટ થઈ રહી છે.</string>
+    <string name="a6">Google Play સેવાઓના નવા સંસ્કરણની જરૂર છે. તે ટૂંક સમયમાં પોતાને અપડેટ કરશે.</string>
+    <string name="a7">ફોનમાં ખોલો</string>
+    <string name="a8">સાઇન ઇન કરો</string>
+    <string name="a9">Google માં સાઇન ઇન કરો</string>
+</resources>

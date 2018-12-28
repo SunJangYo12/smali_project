@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.09">
+        <Button android:id="@id/up_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="^" android:layout_weight="1.0" />
+        <Button android:id="@id/down_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="v" android:layout_weight="1.0" />
+        <com.FF.screenmate.CustomView android:layout_gravity="center" android:id="@id/surfaceView2" android:layout_width="68.0dip" android:layout_height="76.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/left_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sinistra" android:layout_weight="1.0" />
+        <Button android:id="@id/right_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/destra" android:layout_weight="1.0" />
+    </LinearLayout>
+    <TabHost android:id="@id/tabHost1" android:layout_width="fill_parent" android:layout_height="412.0dip" android:layout_weight="0.71">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <HorizontalScrollView android:id="@id/horizontal_scroll" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <TabWidget android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+            </HorizontalScrollView>
+            <FrameLayout android:id="@android:id/tabcontent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="vertical" android:id="@id/tab1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ToggleButton android:id="@id/gender" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:textOn="Switch to Female" android:textOff="Switch to Male (LOCKED)" android:text="ToggleButton" style="@android:style/Widget.Holo.Button" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/tab2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <CheckBox android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/hair_chkBox" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable Hair" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/hair_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/tab3" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <CheckBox android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/checkBox" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable Hairop" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/hairop_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/tab4" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <CheckBox android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/checkBox2" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable Bangs" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/bangs_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/tab5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.09">
+                    <CheckBox android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/checkBox3" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable Accessory" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/acce_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/hats" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.09">
+                    <CheckBox android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/setHat" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable Hat" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/hats_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/tails" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.09">
+                    <CheckBox android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/setTail" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable Tail" />
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/tail_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/advanced" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.09">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:textSize="24.0sp" android:gravity="center" android:id="@id/type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Type:" android:layout_weight="1.0" />
+                        <Spinner android:entries="@array/type_array" android:id="@id/spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:id="@id/red" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="R:" android:layout_weight="1.0" android:textAlignment="center" />
+                        <SeekBar android:id="@id/R" android:layout_width="300.0dip" android:layout_height="wrap_content" android:max="255" android:progress="1" android:layout_weight="1.0" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:id="@id/green" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="G:" android:layout_weight="1.0" android:textAlignment="center" />
+                        <SeekBar android:id="@id/G" android:layout_width="300.0dip" android:layout_height="wrap_content" android:max="255" android:progress="1" android:layout_weight="1.0" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:id="@id/blue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="B:" android:layout_weight="1.0" android:textAlignment="center" />
+                        <SeekBar android:id="@id/B" android:layout_width="300.0dip" android:layout_height="wrap_content" android:max="255" android:progress="1" android:layout_weight="1.0" />
+                    </LinearLayout>
+                    <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+                    <ListView android:id="@id/skin_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/settings" android:padding="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+                    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <TextView android:textSize="30.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/seekbar_text1" android:paddingTop="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Visibility" />
+                            <SeekBar android:id="@id/seekBar1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="255" />
+                            <TextView android:textSize="30.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/size_txt" android:paddingTop="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Size" />
+                            <SeekBar android:id="@id/size" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="100" android:progress="1" />
+                            <TextView android:textSize="30.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/quantity_txt" android:paddingTop="20.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Quantity:" />
+                            <Spinner android:entries="@array/quantity_array" android:id="@id/quantity" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                            <CheckBox android:textSize="24.0sp" android:id="@id/switch_drag" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:checked="true" android:text="Enable Drag-and-Drop" />
+                            <TextView android:textSize="30.0sp" android:textStyle="bold" android:id="@id/textView2" android:paddingTop="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Speech Bubble:" />
+                            <CheckBox android:id="@id/check_speech" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enable" />
+                            <EditText android:id="@id/editText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Hi, nice to meet you!" android:ems="10" android:singleLine="false" android:inputType="textMultiLine" />
+                            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                                <TextView android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Every" android:layout_weight="1.0" />
+                                <EditText android:id="@id/editText2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:layout_weight="1.0" android:inputType="number" />
+                                <TextView android:id="@id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Seconds" android:layout_weight="1.0" />
+                            </LinearLayout>
+                            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.09">
+                                <TextView android:id="@id/textView5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="For" android:layout_weight="1.0" />
+                                <EditText android:id="@id/editText3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:layout_weight="1.0" android:inputType="numberSigned" />
+                                <TextView android:id="@id/textView6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Seconds" android:layout_weight="1.0" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </ScrollView>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.08">
+        <Button android:id="@id/save" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="        Save        " android:textAlignment="center" />
+        <ToggleButton android:textSize="18.0sp" android:id="@id/toggleButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" android:textOn="Disable" android:textOff="Enable" android:text="ToggleButton" android:layout_weight="0.49" style="?android:attr/buttonStyleToggle" />
+    </LinearLayout>
+</LinearLayout>

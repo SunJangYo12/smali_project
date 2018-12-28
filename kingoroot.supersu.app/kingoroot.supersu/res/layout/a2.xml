@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.AppBarLayout android:theme="@style/i5" android:id="@id/cq" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip">
+        <android.support.v7.widget.Toolbar android:id="@id/cr" android:background="?df" android:layout_width="fill_parent" android:layout_height="?br" app:popupTheme="@style/i8" app:layout_scrollFlags="z|a2|a3" />
+        <android.support.design.widget.TabLayout android:id="@id/cs" android:background="@color/ah" android:layout_width="fill_parent" android:layout_height="?br" app:tabIndicatorColor="@color/da" app:tabMode="b7" app:tabGravity="ap" app:tabMaxWidth="0.0dip" app:tabTextAppearance="@style/db" app:tabTextColor="@color/bo" app:tabSelectedTextColor="@color/bp" />
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.v4.view.ViewPager android:id="@id/ct" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <TextView android:background="@drawable/bp" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+    </FrameLayout>
+</LinearLayout>

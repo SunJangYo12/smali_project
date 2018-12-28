@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/gy" android:layout_width="fill_parent" android:layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="@dimen/eq" android:layout_height="@dimen/ep" layout="@layout/notification_template_icon_group" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/h1" android:paddingTop="@dimen/ao" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="@dimen/ep" android:layout_weight="1.0" android:layout_toLeftOf="@id/gu">
+        <FrameLayout android:id="@id/h2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/an" android:layout_marginRight="8.0dip" android:layout_marginBottom="8.0dip" android:layout_weight="1.0" />
+        <FrameLayout android:id="@id/h3" android:paddingTop="@dimen/aj" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip">
+            <DateTimeView android:textAppearance="@style/cs" android:layout_gravity="end|center|top" android:id="@id/gp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <Chronometer android:textAppearance="@style/cs" android:layout_gravity="end|center|top" android:id="@id/h4" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textAppearance="@style/cp" android:layout_gravity="end|bottom|center" android:id="@id/h5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="end|center" android:orientation="horizontal" android:id="@id/gz" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    <include android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_marginRight="6.0dip" layout="@layout/notification_media_cancel_action" />
+    <ImageView android:id="@id/hc" android:layout_width="6.0dip" android:layout_height="fill_parent" />
+</LinearLayout>

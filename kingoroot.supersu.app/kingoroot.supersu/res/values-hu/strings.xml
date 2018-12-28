@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Ugrás a főoldalra</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Felfelé mozgatás</string>
+    <string name="e">További lehetőségek</string>
+    <string name="f">Kész</string>
+    <string name="g">Összes megtekintése</string>
+    <string name="h">Válasszon ki egy alkalmazást</string>
+    <string name="i">KI</string>
+    <string name="j">BE</string>
+    <string name="k">Keresés…</string>
+    <string name="l">Lekérdezés törlése</string>
+    <string name="m">Keresési lekérdezés</string>
+    <string name="n">Keresés</string>
+    <string name="o">Lekérdezés küldése</string>
+    <string name="p">Hangalapú keresés</string>
+    <string name="q">Megosztás a következővel:</string>
+    <string name="r">Megosztás a következővel: %s</string>
+    <string name="s">Összecsukás</string>
+    <string name="t">Engedélyezés</string>
+    <string name="u">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string name="v">Google Play-szolgáltatások engedélyezése</string>
+    <string name="w">Telepítés</string>
+    <string name="x">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
+    <string name="y">A Google Play-szolgáltatások beszerzése</string>
+    <string name="z">Google Play-szolgáltatások – hiba</string>
+    <string name="a0">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="a1">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
+    <string name="a2">Frissítés</string>
+    <string name="a3">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="a4">A Google Play-szolgáltatások frissítése</string>
+    <string name="a5">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="a6">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="a7">Megnyitás a telefonon</string>
+    <string name="a8">Bejelentkezés</string>
+    <string name="a9">Bejelentkezés Google-fiókkal</string>
+    <string name="a_">Keresés</string>
+    <string name="aa">999+</string>
+</resources>

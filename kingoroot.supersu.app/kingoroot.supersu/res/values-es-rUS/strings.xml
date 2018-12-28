@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Navegar a la página principal</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Navegar hacia arriba</string>
+    <string name="e">Más opciones</string>
+    <string name="f">Listo</string>
+    <string name="g">Ver todo</string>
+    <string name="h">Elige una aplicación.</string>
+    <string name="i">DESACTIVADO</string>
+    <string name="j">ACTIVADO</string>
+    <string name="k">Buscar…</string>
+    <string name="l">Eliminar la consulta</string>
+    <string name="m">Consulta de búsqueda</string>
+    <string name="n">Búsqueda</string>
+    <string name="o">Enviar consulta</string>
+    <string name="p">Búsqueda por voz</string>
+    <string name="q">Compartir con</string>
+    <string name="r">Compartir con %s</string>
+    <string name="s">Contraer</string>
+    <string name="t">Habilitar</string>
+    <string name="u">%1$s no funcionará a menos que habilites los servicios de Google Play.</string>
+    <string name="v">Habilitar servicios de Google Play</string>
+    <string name="w">Instalar</string>
+    <string name="x">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string name="y">Obtener servicios de Google Play</string>
+    <string name="z">Error de Google Play Services</string>
+    <string name="a0">%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="a1">%1$s no se ejecutará sin los servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="a2">Actualizar</string>
+    <string name="a3">%1$s no se ejecutará a menos que actualices los servicios de Google Play.</string>
+    <string name="a4">Actualizar servicios de Google Play</string>
+    <string name="a5">%1$s no se ejecutará sin los servicios de Google Play. La plataforma se está actualizando en este momento.</string>
+    <string name="a6">Se necesita una nueva versión de los servicios de Google Play. Se actualizarán automáticamente en breve.</string>
+    <string name="a7">Abrir en el teléfono</string>
+    <string name="a8">Acceder</string>
+    <string name="a9">Acceder con Google</string>
+    <string name="a_">Buscar</string>
+    <string name="aa">999+</string>
+</resources>

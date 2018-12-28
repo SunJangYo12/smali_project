@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_181 (Oracle Corporation)
+
+Name: res/drawable/ic_sistem.png
+SHA1-Digest: c4jpgGFisovrDr0MXsflnEqvqwk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oH1cFp5MMK5mRyi6X6HEt6vaAio=
+
+Name: resources.arsc
+SHA1-Digest: KOeLs8nFuGlrJh/Bxzulc07v2RI=
+
+Name: classes.dex
+SHA1-Digest: FCz8oVxpMHBliTUxi0VHNJrfqPs=
+
+Name: res/drawable/img.png
+SHA1-Digest: Coy3M6z5SYvfZSyZs/YLByZZ46U=
+

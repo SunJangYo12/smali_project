@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?br"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageButton android:id="@id/el" android:background="@drawable/ei" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" />
+    <ImageView android:layout_gravity="center_vertical" android:background="@drawable/ev" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="110.0dip">
+        <TextView android:textSize="@dimen/f9" android:textStyle="bold|italic" android:textColor="@color/u" android:layout_gravity="center_vertical" android:id="@id/em" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="18.0dip" android:text="@string/ay" />
+        <TextView android:textSize="@dimen/f9" android:textStyle="bold|italic" android:textColor="@color/u" android:layout_gravity="center_vertical" android:id="@id/en" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:text="@string/cl" />
+        <TextView android:textSize="@dimen/f9" android:textStyle="bold|italic" android:textColor="@color/u" android:layout_gravity="center_vertical" android:id="@id/eo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:text="@string/cm" />
+    </FrameLayout>
+    <TextView android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+</LinearLayout>

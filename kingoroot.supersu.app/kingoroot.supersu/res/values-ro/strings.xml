@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Navigați la ecranul de pornire</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Navigați în sus</string>
+    <string name="e">Mai multe opțiuni</string>
+    <string name="f">Terminat</string>
+    <string name="g">Afișați-le pe toate</string>
+    <string name="h">Alegeți o aplicație</string>
+    <string name="i">DEZACTIVAȚI</string>
+    <string name="j">ACTIVAȚI</string>
+    <string name="k">Căutați…</string>
+    <string name="l">Ștergeți interogarea</string>
+    <string name="m">Interogare de căutare</string>
+    <string name="n">Căutați</string>
+    <string name="o">Trimiteți interogarea</string>
+    <string name="p">Căutare vocală</string>
+    <string name="q">Trimiteți la</string>
+    <string name="r">Trimiteți la %s</string>
+    <string name="s">Restrângeți</string>
+    <string name="t">Activați</string>
+    <string name="u">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="v">Activați serviciile Google Play</string>
+    <string name="w">Instalați</string>
+    <string name="x">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
+    <string name="y">Descărcați serviciile Google Play</string>
+    <string name="z">Eroare a serviciilor Google Play</string>
+    <string name="a0">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="a1">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
+    <string name="a2">Actualizați</string>
+    <string name="a3">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="a4">Actualizați serviciile Google Play</string>
+    <string name="a5">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="a6">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="a7">Deschideți pe telefon</string>
+    <string name="a8">Conectați-vă</string>
+    <string name="a9">Conectați-vă cu Google</string>
+    <string name="a_">Căutați</string>
+    <string name="aa">˃999</string>
+</resources>

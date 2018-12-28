@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Одлазак на Почетну</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Кретање нагоре</string>
+    <string name="e">Још опција</string>
+    <string name="f">Готово</string>
+    <string name="g">Прикажи све</string>
+    <string name="h">Избор апликације</string>
+    <string name="i">ИСКЉУЧИ</string>
+    <string name="j">УКЉУЧИ</string>
+    <string name="k">Претражите...</string>
+    <string name="l">Брисање упита</string>
+    <string name="m">Упит за претрагу</string>
+    <string name="n">Претрага</string>
+    <string name="o">Слање упита</string>
+    <string name="p">Гласовна претрага</string>
+    <string name="q">Дели са</string>
+    <string name="r">Дели са апликацијом %s</string>
+    <string name="s">Скупи</string>
+    <string name="t">Омогући</string>
+    <string name="u">%1$s неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="v">Омогућите Google Play услуге</string>
+    <string name="w">Инсталирај</string>
+    <string name="x">%1$s не може да се покрене без Google Play услуга, које нису инсталиране на уређају.</string>
+    <string name="y">Преузмите Google Play услуге</string>
+    <string name="z">Грешка Google Play услуга</string>
+    <string name="a0">%1$s има проблема са Google Play услугама. Пробајте поново.</string>
+    <string name="a1">%1$s не може да се покрене без Google Play услуга, које уређај не подржава.</string>
+    <string name="a2">Ажурирај</string>
+    <string name="a3">%1$s не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="a4">Ажурирајте Google Play услуге</string>
+    <string name="a5">%1$s не може да се покрене без Google Play услуга, које се тренутно ажурирају.</string>
+    <string name="a6">Потребна је нова верзија Google Play услуга. Ускоро ће се ажурирати.</string>
+    <string name="a7">Отвори на телефону</string>
+    <string name="a8">Пријави ме</string>
+    <string name="a9">Пријави ме на Google</string>
+    <string name="a_">Претражи</string>
+    <string name="aa">>999</string>
+</resources>

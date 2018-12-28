@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/bq" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/fg" android:textColor="@color/u" android:gravity="center" android:padding="@dimen/cm" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dq" />
+    <View android:background="@color/cw" android:paddingTop="@dimen/cl" android:paddingBottom="@dimen/cl" android:layout_width="fill_parent" android:layout_height="2.0px" />
+    <TextView android:textSize="@dimen/u" android:textColor="@color/cx" android:id="@id/ew" android:paddingLeft="@dimen/cl" android:paddingTop="@dimen/cl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dr" />
+    <TextView android:textSize="@dimen/u" android:textColor="@color/cx" android:id="@id/f9" android:paddingLeft="@dimen/cl" android:paddingRight="@dimen/cl" android:paddingBottom="@dimen/cl" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:paddingBottom="@dimen/cl" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="@dimen/fg" android:textColor="@color/v" android:id="@id/ij" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="40.0dip" android:text="@string/ei" />
+    </LinearLayout>
+</LinearLayout>

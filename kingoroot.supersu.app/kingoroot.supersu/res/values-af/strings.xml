@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Navigeer tuis</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Navigeer op</string>
+    <string name="e">Nog opsies</string>
+    <string name="f">Klaar</string>
+    <string name="g">Sien alles</string>
+    <string name="h">"Kies 'n program"</string>
+    <string name="i">AF</string>
+    <string name="j">AAN</string>
+    <string name="k">Soek …</string>
+    <string name="l">Vee navraag uit</string>
+    <string name="m">Soeknavraag</string>
+    <string name="n">Soek</string>
+    <string name="o">Dien navraag in</string>
+    <string name="p">Stemsoektog</string>
+    <string name="q">Deel met</string>
+    <string name="r">Deel met %s</string>
+    <string name="s">Vou in</string>
+    <string name="t">Aktiveer</string>
+    <string name="u">%1$s sal nie werk nie tensy jy Google Play-dienste aktiveer.</string>
+    <string name="v">Aktiveer Google Play-dienste</string>
+    <string name="w">Installeer</string>
+    <string name="x">%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie.</string>
+    <string name="y">Kry Google Play-dienste</string>
+    <string name="z">Google Play Services-fout</string>
+    <string name="a0">%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.</string>
+    <string name="a1">%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie.</string>
+    <string name="a2">Dateer op</string>
+    <string name="a3">%1$s sal nie werk nie tensy jy Google Play Dienste opdateer.</string>
+    <string name="a4">Dateer Google Play-dienste op</string>
+    <string name="a5">%1$s sal nie sonder Google Play-dienste werk nie, wat tans opdateer.</string>
+    <string name="a6">Nuwe weergawe van Google Play-dienste is nodig. Dit sal binnekort self opdateer.</string>
+    <string name="a7">Maak oop op foon</string>
+    <string name="a8">Meld aan</string>
+    <string name="a9">Meld aan met Google</string>
+    <string name="a_">Soek</string>
+    <string name="aa">999+</string>
+</resources>

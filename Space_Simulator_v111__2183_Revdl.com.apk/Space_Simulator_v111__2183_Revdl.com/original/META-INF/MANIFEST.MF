@@ -1,0 +1,106 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 16zmuSymKBI+gVhGcYw//4tyFM4=
+
+Name: assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA1-Digest: 0pVJxDxJAJm1ahUl44/v8RucixY=
+
+Name: assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+SHA1-Digest: EaHA4qsvjAb+RQdTXtR+DdJ5pg0=
+
+Name: assets/bin/Data/Managed/SymbolMap-ARMv7
+SHA1-Digest: cup6F7ud3314s4UeBmA36AXjeFg=
+
+Name: assets/bin/Data/Managed/SymbolMap-x86
+SHA1-Digest: 9CJEOFcMKzcYC9X2QX5oiJ/edjU=
+
+Name: assets/bin/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: RoCjSq4Rk/HkpqrBpd08MH3iV/s=
+
+Name: assets/bin/Data/Managed/etc/mono/1.0/machine.config
+SHA1-Digest: REXVPcdVyi+XewG/nXc1ez37DMc=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+SHA1-Digest: GH3/UW+USOY+pQeBkLM0eSLEs+s=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: sGyx0JrTu98dghTJEOPaKiKNETw=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/machine.config
+SHA1-Digest: fqtiPFjYU9czwKXlhqR+CcTj79s=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/settings.map
+SHA1-Digest: 0WuqFefTBCvPnXMYIJxpb02vLLA=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/web.config
+SHA1-Digest: pNfgVRb2PWq2cyeymdT7KFLLhAs=
+
+Name: assets/bin/Data/Managed/etc/mono/browscap.ini
+SHA1-Digest: LVRU4WHeiltlkQ8nvXDZ0K2PpHY=
+
+Name: assets/bin/Data/Managed/etc/mono/config
+SHA1-Digest: lX5OUOdMUDR6+Sq/JAwseqs/P3k=
+
+Name: assets/bin/Data/Managed/etc/mono/mconfig/config.xml
+SHA1-Digest: k2Ug1btcAKGYXXpMTw73Y6kDGGI=
+
+Name: assets/bin/Data/data.unity3d
+SHA1-Digest: To05UrZq5U5+yPhV2giNT72TidQ=
+
+Name: assets/bin/Data/methods_pointedto_by_uievents.xml
+SHA1-Digest: PDdoVet8EUMuLOqBzDRohm+PdbM=
+
+Name: assets/bin/Data/platform_native_link.xml
+SHA1-Digest: u0fC7uvOtb49QDlBCttVA+pRNd0=
+
+Name: assets/bin/Data/preserved_derived_types.xml
+SHA1-Digest: oZvuNTtTLTN9YqvupKs08nP8TZc=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: iP2iTKsUpc121QB0Csx4IRdS8g4=
+
+Name: classes.dex
+SHA1-Digest: 1mFVdL0M2AA0kgNsNd259a34lqA=
+
+Name: lib/armeabi-v7a/libil2cpp.so
+SHA1-Digest: 01EI883TkoDgJdRvypnmpyA89YQ=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: gQFw9lQmHYHNDJgs4jDiYY/9EAY=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: xuP/Q7Q+V+HaA6cpVD7uMbWh4AM=
+
+Name: lib/x86/libil2cpp.so
+SHA1-Digest: bxpbL7TKHSzAQIYRbHwY4v1bpCg=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: Wwo0Nu3iZSIalOjacaTRrBTiHLc=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: NuFwd52DwCDjEJRPDJUfBWlN0wA=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: dxI9hfvBoO6TAu9tOQjSJv6Hdyk=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: 8j53qIDIl1e23ICE0LMDgZ3hrVs=
+
+Name: res/drawable-mdpi-v4/app_icon.png
+SHA1-Digest: 8wmzrsnDltg/DW5OYCSEglvpHRQ=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: VObp+BQ/fCSC2t3nImqhb+twmIs=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: Qfx/OMbh4c3KY3wyCM9p7n8kRtg=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: xdQlvZ7afH/WaHHxDG2Hf+rBPes=
+
+Name: resources.arsc
+SHA1-Digest: 9jyTwVyrQAN6pKkWMcueHs6QaNQ=
+

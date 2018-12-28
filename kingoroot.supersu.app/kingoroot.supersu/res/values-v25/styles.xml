@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="a2" parent="@style/l7" />
+    <style name="a3" parent="@style/l8" />
+    <style name="l7" parent="@android:style/Theme.Material.NoActionBar" />
+    <style name="l8" parent="@android:style/Theme.Material.Light.NoActionBar" />
+</resources>

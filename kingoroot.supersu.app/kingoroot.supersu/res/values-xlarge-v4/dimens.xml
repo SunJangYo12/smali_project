@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="a2">60.000004%</item>
+    <item type="dimen" name="a3">90.0%</item>
+    <item type="dimen" name="a4">50.0%</item>
+    <item type="dimen" name="a5">69.99999%</item>
+    <item type="dimen" name="a6">45.000004%</item>
+    <item type="dimen" name="a7">72.0%</item>
+    <dimen name="av">200.0dip</dimen>
+    <dimen name="aw">245.0dip</dimen>
+    <dimen name="ax">200.0dip</dimen>
+    <dimen name="ay">120.0sp</dimen>
+    <dimen name="az">60.0sp</dimen>
+    <dimen name="fn">300.0dip</dimen>
+    <dimen name="fo">400.0dip</dimen>
+</resources>

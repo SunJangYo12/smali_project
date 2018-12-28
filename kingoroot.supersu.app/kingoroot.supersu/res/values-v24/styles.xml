@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cp" parent="@style/co" />
+    <style name="cq" parent="@style/a8" />
+    <style name="cs" parent="@style/cr" />
+    <style name="ct" parent="@style/a9" />
+    <style name="d3" parent="@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored" />
+    <style name="d4" parent="@android:style/TextAppearance.Material.Widget.Button.Colored" />
+</resources>

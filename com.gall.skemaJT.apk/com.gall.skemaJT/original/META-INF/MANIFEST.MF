@@ -1,0 +1,126 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: res/drawable-xhdpi-v4/image27.jpg
+SHA1-Digest: 5OJM4FrhvLd1N0OlFOj2JbP14v4=
+
+Name: res/drawable-xhdpi-v4/image15.jpg
+SHA1-Digest: xxXHT5i1Ic5xG5lqZzcdJj3oinI=
+
+Name: res/drawable-xhdpi-v4/image4.jpg
+SHA1-Digest: QyQk6pVomEHPRKZjSx+3RlEW8Rs=
+
+Name: res/layout/main.xml
+SHA1-Digest: BIN1ZXax18V3l9+E2Ws2CwcoR4Q=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: WlMCedWArL6I0f7d6+OjWBst0VE=
+
+Name: res/drawable-xhdpi-v4/image8.jpg
+SHA1-Digest: fAQ+wLA6oDIE5NtLwKVTZ85L+SA=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-xhdpi-v4/image16.jpg
+SHA1-Digest: VYe6AppMltdQ3Vj52HwmVZK8JFk=
+
+Name: res/drawable-xhdpi-v4/image18.jpg
+SHA1-Digest: zac/rkiVOY+6Mz7bCuXdw4HAaok=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 0tNMOXXmuQbid1TzI7vwe4GNLsE=
+
+Name: res/drawable-xhdpi-v4/basic_dc.jpg
+SHA1-Digest: cnY8CfIpnT0pd9wx99J4CWO/unw=
+
+Name: res/drawable-xhdpi-v4/image6.jpg
+SHA1-Digest: NNgwYm9NMkGyjmD69xfbfNC1/E8=
+
+Name: res/drawable-xhdpi-v4/image10.jpg
+SHA1-Digest: f4rwKd05MeX3r3Z7MajUSzebA6M=
+
+Name: res/drawable-xhdpi-v4/image2.jpg
+SHA1-Digest: XPuuOxqZ5lc1YOfTBB4n0ZvQrjw=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: resources.arsc
+SHA1-Digest: 2vIh6JTYSzaq85ClvdASJtRBpvg=
+
+Name: res/drawable-xhdpi-v4/image3.jpg
+SHA1-Digest: rZo8UrP1wO6UV0j82agkyCmD1bE=
+
+Name: res/drawable-xhdpi-v4/image22.jpg
+SHA1-Digest: d91ixZqrZOyd8hCrXhkqDEMVOq8=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-xhdpi-v4/image25.jpg
+SHA1-Digest: FsUrOwtmAb8U4N4hRMll4yyv30k=
+
+Name: res/drawable-xhdpi-v4/image1.jpg
+SHA1-Digest: SDtM2If4R2Hy7ySatC+Pj+EklBk=
+
+Name: classes.dex
+SHA1-Digest: bMCrmS1RJ4bcG2LvZNflqOt+2Xo=
+
+Name: res/drawable-xhdpi-v4/image13.jpg
+SHA1-Digest: BMmvWRXaby6zhvQn8oM2iQSo7fg=
+
+Name: res/drawable-xhdpi-v4/image12.jpg
+SHA1-Digest: EDeD/QVRCC7Xx1PM1K/XFFi5Zr4=
+
+Name: res/drawable-xhdpi-v4/image21.jpg
+SHA1-Digest: zfo4ORjRMoZAbGucUy3dJ7QIMQM=
+
+Name: res/drawable-xhdpi-v4/image20.jpg
+SHA1-Digest: 4Wple/xb0Qs3CMOIIczh6DrTzUI=
+
+Name: res/drawable-xhdpi-v4/image19.jpg
+SHA1-Digest: eT5AVRQOD5U2aWL1MnDlfJs5ksc=
+
+Name: res/drawable-xhdpi-v4/image9.jpg
+SHA1-Digest: YNaEfEbT/iUfW37qugNxlkIalNA=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-xhdpi-v4/image5.jpg
+SHA1-Digest: 0XC2tf1ji++dJGa3Y9YZNXk0Rf0=
+
+Name: res/drawable-xhdpi-v4/image23.jpg
+SHA1-Digest: VvED7/s69Rc3GfdN4+WqkWR8MJk=
+
+Name: res/drawable-xhdpi-v4/image17.jpg
+SHA1-Digest: PtB1sLU5a3j+2/W9ya1g1WiNmUI=
+
+Name: res/drawable-xhdpi-v4/image26.jpg
+SHA1-Digest: 55TvkRYwjV+F+21JJJokM7XGaKQ=
+
+Name: res/drawable-xhdpi-v4/image14.jpg
+SHA1-Digest: s3PFY5J9I+vK3LQbT/KeU0yRJxk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: w/fr4VqJMAlbESDdDPDuy37gGRo=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-xhdpi-v4/image24.jpg
+SHA1-Digest: eugOFFmqQ154mVtq5FHcBTOQhM8=
+
+Name: res/drawable-xhdpi-v4/image7.jpg
+SHA1-Digest: kxA8Po+PCxfsWLngThc3eQnQw6A=
+
+Name: res/drawable-xhdpi-v4/image11.jpg
+SHA1-Digest: 4nh/A1LzRXD6TQo+3Mw9gZiRrrg=
+
+Name: res/drawable-xhdpi-v4/basic_ac.jpg
+SHA1-Digest: 2vyKELrBLa6/ATY2ed8+RMJLBDg=
+

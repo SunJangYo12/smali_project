@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Перейти на головний</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Перейти вгору</string>
+    <string name="e">Інші опції</string>
+    <string name="f">Готово</string>
+    <string name="g">Переглянути всі</string>
+    <string name="h">Вибрати програму</string>
+    <string name="i">ВИМК.</string>
+    <string name="j">УВІМК.</string>
+    <string name="k">Пошук…</string>
+    <string name="l">Очистити запит</string>
+    <string name="m">Пошуковий запит</string>
+    <string name="n">Пошук</string>
+    <string name="o">Надіслати запит</string>
+    <string name="p">Голосовий пошук</string>
+    <string name="q">Надіслати через</string>
+    <string name="r">Надіслати через %s</string>
+    <string name="s">Згорнути</string>
+    <string name="t">Увімкнути</string>
+    <string name="u">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
+    <string name="v">Увімкнути сервіси Google Play</string>
+    <string name="w">Установити</string>
+    <string name="x">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+    <string name="y">Установити сервіси Google Play</string>
+    <string name="z">Помилка сервісів Google Play</string>
+    <string name="a0">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="a1">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+    <string name="a2">Оновити</string>
+    <string name="a3">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
+    <string name="a4">Оновіть сервіси Google Play</string>
+    <string name="a5">Додаток %1$s не працюватиме без сервісів Google Play, які зараз оновлюються.</string>
+    <string name="a6">Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться.</string>
+    <string name="a7">Відкрити на телефоні</string>
+    <string name="a8">Увійти</string>
+    <string name="a9">Увійти в облік. запис Google</string>
+    <string name="a_">Пошук</string>
+    <string name="aa">999+</string>
+</resources>

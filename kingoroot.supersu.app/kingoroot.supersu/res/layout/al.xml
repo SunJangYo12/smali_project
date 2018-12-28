@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/bl" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:padding="@dimen/fj" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/c1" style="@style/MWidget.TextView.Ignore.Desc" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <android.support.v7.widget.RecyclerView android:id="@id/d5" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/f7" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MainGiftProgressStyle" />
+    </FrameLayout>
+    <View android:background="@color/b8" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/ea" />
+    <Button android:id="@id/f8" android:text="@string/b6" style="@style/MWidget.Button.Main.BackgroundSelectorFull" />
+</LinearLayout>

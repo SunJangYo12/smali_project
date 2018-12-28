@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">瀏覽主頁</string>
+    <string name="b">%1$s：%2$s</string>
+    <string name="c">%1$s (%2$s)：%3$s</string>
+    <string name="d">向上瀏覽</string>
+    <string name="e">更多選項</string>
+    <string name="f">完成</string>
+    <string name="g">顯示全部</string>
+    <string name="h">選擇應用程式</string>
+    <string name="i">關閉</string>
+    <string name="j">開啟</string>
+    <string name="k">搜尋…</string>
+    <string name="l">清除查詢</string>
+    <string name="m">搜尋查詢</string>
+    <string name="n">搜尋</string>
+    <string name="o">提交查詢</string>
+    <string name="p">語音搜尋</string>
+    <string name="q">分享對象</string>
+    <string name="r">與「%s」分享</string>
+    <string name="s">收合</string>
+    <string name="t">啟用</string>
+    <string name="u">您必須啟用 Google Play 服務，方可執行「%1$s」。</string>
+    <string name="v">啟用 Google Play 服務</string>
+    <string name="w">安裝</string>
+    <string name="x">您的裝置尚未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="y">安裝 Google Play 服務</string>
+    <string name="z">Google Play 服務錯誤</string>
+    <string name="a0">「%1$s」存取 Google Play 服務時發生問題。請稍後再試一次。</string>
+    <string name="a1">您的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="a2">更新</string>
+    <string name="a3">您必須更新「Google Play 服務」，才能執行 %1$s。</string>
+    <string name="a4">更新 Google Play 服務</string>
+    <string name="a5">正在更新 Google Play 服務，更新完成後方可執行「%1$s」。</string>
+    <string name="a6">需要使用新版本的 Google Play 服務。更新會即將自動開始。</string>
+    <string name="a7">在手機開啟</string>
+    <string name="a8">登入</string>
+    <string name="a9">透過 Google 登入</string>
+    <string name="a_">搜尋</string>
+    <string name="aa">999 +</string>
+</resources>

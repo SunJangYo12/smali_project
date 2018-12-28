@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/bl" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/cl" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/fe" style="@style/SetTitle" />
+            <LinearLayout android:orientation="horizontal" android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/f">
+                <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="@dimen/f" android:layout_weight="1.0">
+                    <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/e_" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ec" />
+                </LinearLayout>
+                <android.support.v7.widget.SwitchCompat android:layout_gravity="center_vertical" android:id="@id/ea" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/eb" android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:text="@string/dc" />
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/ec" android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:text="@string/ab" />
+            <TextView android:background="@drawable/bp" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+            <TextView android:text="@string/fb" style="@style/SetTitle" />
+            <LinearLayout android:gravity="center_vertical" android:id="@id/ed" android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="@dimen/f" android:layout_weight="1.0">
+                    <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fc" />
+                </LinearLayout>
+                <android.support.v7.widget.AppCompatRadioButton android:id="@id/ee" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+            <LinearLayout android:gravity="center_vertical" android:id="@id/ef" android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="@dimen/f" android:layout_weight="1.0">
+                    <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fd" />
+                </LinearLayout>
+                <android.support.v7.widget.AppCompatRadioButton android:id="@id/eg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <TextView android:background="@drawable/bp" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+            <TextView android:text="@string/ff" style="@style/SetTitle" />
+            <LinearLayout android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/a">
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="@dimen/f" android:layout_weight="1.0">
+                    <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/eh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/de" />
+                </LinearLayout>
+                <TextView android:textColor="@color/as" android:gravity="right" android:layout_gravity="center_vertical" android:id="@id/ei" android:layout_width="@dimen/t" android:layout_height="wrap_content" android:layout_marginRight="@dimen/cx" android:text="15s" />
+            </LinearLayout>
+            <FrameLayout android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingTop="@dimen/k" android:paddingRight="@dimen/cj" android:paddingBottom="@dimen/k" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.kingouser.com.customview.MySeekBar android:id="@id/ej" android:layout_width="fill_parent" android:layout_height="@dimen/j" />
+            </FrameLayout>
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/ek" android:background="@android:color/white" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:text="@string/ad" />
+            <TextView android:background="@drawable/bp" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+            <View android:background="@drawable/dp" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/g" android:layout_marginTop="@dimen/i" android:layout_marginBottom="@dimen/h" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

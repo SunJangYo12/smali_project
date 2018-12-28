@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_cat_motion">
+        <CheckBoxPreference android:title="@string/pref_motion_enable_title" android:key="motion.enable" android:summary="@string/pref_motion_enable_summary" android:defaultValue="true" />
+        <ListPreference android:entries="@array/pref_motion_behaviour_entries" android:title="@string/pref_motion_behaviour_title" android:key="motion.behaviour" android:summary="@string/pref_motion_behaviour_summary" android:defaultValue="@string/pref_motion_behaviour_default" android:entryValues="@array/pref_motion_behaviour_entryvalues" />
+        <ListPreference android:entries="@array/pref_motion_transparency_entries" android:title="@string/pref_motion_transparency_title" android:key="motion.transparency" android:summary="@string/pref_motion_transparency_summary" android:defaultValue="0.0" android:entryValues="@array/pref_motion_transparency_entryvalues" />
+        <org.tamanegi.aneko.SkinPreference android:title="@string/pref_motion_skin_title" android:key="motion.skin" android:summary="@string/pref_motion_skin_summary" android:defaultValue="org.tamanegi.aneko/org.tamanegi.aneko.NekoSkin" android:dialogTitle="@string/pref_skin_dialog_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

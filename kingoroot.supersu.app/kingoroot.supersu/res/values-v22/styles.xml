@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bp" parent="@style/l3" />
+    <style name="bq" parent="@style/l4" />
+    <style name="l3" parent="@style/kw">
+        <item name="c5">?android:actionModeShareDrawable</item>
+        <item name="cw">?android:editTextBackground</item>
+    </style>
+    <style name="l4" parent="@style/ky">
+        <item name="c5">?android:actionModeShareDrawable</item>
+        <item name="cw">?android:editTextBackground</item>
+    </style>
+</resources>

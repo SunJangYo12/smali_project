@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="e" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="bp" parent="@style/l5" />
+    <style name="bq" parent="@style/l6" />
+    <style name="by" parent="@android:style/Widget.Material.Button.Borderless.Colored" />
+    <style name="cx" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu" />
+    <style name="cy" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse" />
+    <style name="cz" parent="@android:style/Widget.Material.Button.Colored" />
+    <style name="d0" parent="@android:style/Widget.Material.RatingBar.Indicator" />
+    <style name="d1" parent="@android:style/Widget.Material.RatingBar.Small" />
+    <style name="d2" parent="@style/di">
+        <item name="ej">?android:colorBackgroundFloating</item>
+    </style>
+    <style name="l5" parent="@style/l3">
+        <item name="bt">?android:actionBarItemBackground</item>
+        <item name="bu">?android:actionMenuTextAppearance</item>
+        <item name="bv">?android:actionMenuTextColor</item>
+        <item name="dn">@drawable/c4</item>
+        <item name="e5">?android:ratingBarStyleIndicator</item>
+        <item name="e6">?android:ratingBarStyleSmall</item>
+    </style>
+    <style name="l6" parent="@style/l4">
+        <item name="bt">?android:actionBarItemBackground</item>
+        <item name="bu">?android:actionMenuTextAppearance</item>
+        <item name="bv">?android:actionMenuTextColor</item>
+        <item name="dn">@drawable/c4</item>
+        <item name="e5">?android:ratingBarStyleIndicator</item>
+        <item name="e6">?android:ratingBarStyleSmall</item>
+    </style>
+</resources>

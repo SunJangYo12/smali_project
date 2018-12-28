@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Идэвхжүүлэх</string>
+    <string name="u">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="v">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="w">Суулгах</string>
+    <string name="x">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="y">Google Play үйлчилгээг авах</string>
+    <string name="z">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="a0">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="a1">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="a2">Шинэчлэх</string>
+    <string name="a3">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="a4">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="a5">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="a6">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="a7">Утсаар нээх</string>
+    <string name="a8">Нэвтрэх</string>
+    <string name="a9">Google-р нэвтрэх:</string>
+</resources>

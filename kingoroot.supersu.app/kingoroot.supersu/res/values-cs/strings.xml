@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Přejít na plochu</string>
+    <string name="b">%1$s – %2$s</string>
+    <string name="c">%1$s, %2$s – %3$s</string>
+    <string name="d">Přejít nahoru</string>
+    <string name="e">Více možností</string>
+    <string name="f">Hotovo</string>
+    <string name="g">Zobrazit vše</string>
+    <string name="h">Vybrat aplikaci</string>
+    <string name="i">VYPNUTO</string>
+    <string name="j">ZAPNUTO</string>
+    <string name="k">Vyhledat…</string>
+    <string name="l">Smazat dotaz</string>
+    <string name="m">Vyhledávací dotaz</string>
+    <string name="n">Hledat</string>
+    <string name="o">Odeslat dotaz</string>
+    <string name="p">Hlasové vyhledávání</string>
+    <string name="q">Sdílet pomocí</string>
+    <string name="r">Sdílet pomocí %s</string>
+    <string name="s">Sbalit</string>
+    <string name="t">Povolit</string>
+    <string name="u">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="v">Aktivace služeb Google Play</string>
+    <string name="w">Instalovat</string>
+    <string name="x">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string name="y">Instalace služeb Google Play</string>
+    <string name="z">Chyba služeb Google Play</string>
+    <string name="a0">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="a1">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string name="a2">Aktualizovat</string>
+    <string name="a3">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="a4">Aktualizace služeb Google Play</string>
+    <string name="a5">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="a6">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="a7">Otevřít v telefonu</string>
+    <string name="a8">Přihlásit se</string>
+    <string name="a9">Přihlásit se k účtu Google</string>
+    <string name="a_">Hledat</string>
+    <string name="aa">999+</string>
+</resources>

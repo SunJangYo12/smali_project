@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">ホームへ移動</string>
+    <string name="b">%1$s、%2$s</string>
+    <string name="c">%1$s、%2$s、%3$s</string>
+    <string name="d">上へ移動</string>
+    <string name="e">その他のオプション</string>
+    <string name="f">完了</string>
+    <string name="g">すべて表示</string>
+    <string name="h">アプリの選択</string>
+    <string name="i">OFF</string>
+    <string name="j">ON</string>
+    <string name="k">検索…</string>
+    <string name="l">検索キーワードを削除</string>
+    <string name="m">検索キーワード</string>
+    <string name="n">検索</string>
+    <string name="o">検索キーワードを送信</string>
+    <string name="p">音声検索</string>
+    <string name="q">共有</string>
+    <string name="r">%sと共有</string>
+    <string name="s">折りたたむ</string>
+    <string name="t">有効にする</string>
+    <string name="u">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="v">Google Play開発者サービスの有効化</string>
+    <string name="w">インストール</string>
+    <string name="x">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
+    <string name="y">Google Play開発者サービスの入手</string>
+    <string name="z">Google Play開発者サービスのエラー</string>
+    <string name="a0">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="a1">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
+    <string name="a2">更新</string>
+    <string name="a3">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="a4">Google Play開発者サービスの更新</string>
+    <string name="a5">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="a6">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="a7">スマートフォンで開く</string>
+    <string name="a8">ログイン</string>
+    <string name="a9">Googleにログイン</string>
+    <string name="a_">検索</string>
+    <string name="aa">999+</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentBottom="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/imageView" android:background="@drawable/character_maker" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.24" android:contentDescription="@string/title" />
+    <com.FF.screenmate.CustomView android:layout_gravity="center" android:id="@id/surfaceView" android:layout_width="132.0px" android:layout_height="148.0px" android:layout_weight="0.1" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/left_body" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/left" />
+        <TextView android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/body" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/body" />
+        <Button android:gravity="center" android:id="@id/right_body" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/right" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/left_hair" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/left" />
+        <TextView android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/hair" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hair" />
+        <Button android:id="@id/right_hair" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/right" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/left_hairop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/left" />
+        <ToggleButton android:id="@id/toggleHairop" android:layout_width="0.0dip" android:layout_height="wrap_content" android:checked="true" android:textOn="Hairop" android:textOff="Hairop" android:text="Hairop" android:layout_weight="1.0" />
+        <Button android:id="@id/right_hairop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/right" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/left_bangs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/left" />
+        <ToggleButton android:id="@id/toggleBangs" android:layout_width="0.0dip" android:layout_height="wrap_content" android:checked="true" android:textOn="Bangs" android:textOff="Bangs" android:text="Bangs" android:layout_weight="1.0" />
+        <Button android:id="@id/right_bangs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/right" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/left_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/left" />
+        <TextView android:textSize="30.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/small" />
+        <Button android:id="@id/right_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/right" />
+    </LinearLayout>
+    <ToggleButton android:id="@id/toggleOverride" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textOn="OVERRIDE" android:textOff="OVERRIDE" android:text="Override" />
+    <Button android:layout_gravity="center" android:id="@id/save" android:layout_width="151.0dip" android:layout_height="wrap_content" android:text="@string/save" android:layout_weight="0.08" />
+</LinearLayout>

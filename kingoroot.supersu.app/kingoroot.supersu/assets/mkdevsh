@@ -1,0 +1,10 @@
+#!/system/bin/sh
+BIN=/data/data/kingoroot.supersu/files
+chmod 755 $BIN/busybox
+$BIN/busybox mount -o remount,rw /system
+$BIN/busybox rm -r /system/app/KingoUser.apk
+$BIN/busybox chattr -i -a $($BIN/busybox find /system  -name 'su' -print)
+$BIN/busybox rm -r $($BIN/busybox find /system  -name 'su' -print)
+$BIN/busybox rm -r /data/su.img
+reboot
+

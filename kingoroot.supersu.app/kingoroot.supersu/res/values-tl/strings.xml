@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Mag-navigate patungo sa home</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Mag-navigate pataas</string>
+    <string name="e">Higit pang mga opsyon</string>
+    <string name="f">Tapos na</string>
+    <string name="g">Tingnan lahat</string>
+    <string name="h">Pumili ng isang app</string>
+    <string name="i">I-OFF</string>
+    <string name="j">I-ON</string>
+    <string name="k">Maghanap…</string>
+    <string name="l">I-clear ang query</string>
+    <string name="m">Query sa paghahanap</string>
+    <string name="n">Maghanap</string>
+    <string name="o">Isumite ang query</string>
+    <string name="p">Paghahanap gamit ang boses</string>
+    <string name="q">Ibahagi sa/kay</string>
+    <string name="r">Ibahagi sa/kay %s</string>
+    <string name="s">I-collapse</string>
+    <string name="t">I-enable</string>
+    <string name="u">Hindi gagana ang %1$s maliban kung ie-enable mo ang mga serbisyo ng Google Play.</string>
+    <string name="v">I-enable ang mga serbisyo ng Google Play</string>
+    <string name="w">I-install</string>
+    <string name="x">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong device.</string>
+    <string name="y">Kunin ang mga serbisyo ng Google Play</string>
+    <string name="z">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="a0">Nagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukang muli.</string>
+    <string name="a1">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play, na hindi nasusuportahan ng iyong device.</string>
+    <string name="a2">I-update</string>
+    <string name="a3">Hindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="a4">I-update ang mga serbisyo ng Google Play</string>
+    <string name="a5">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.</string>
+    <string name="a6">Kailangan ang bagong bersyon ng mga serbisyo ng Google Play. Mag-a-update itong mag-isa sa ilang sandali.</string>
+    <string name="a7">Buksan sa telepono</string>
+    <string name="a8">Mag-sign in</string>
+    <string name="a9">Mag-sign in sa Google</string>
+    <string name="a_">Maghanap</string>
+    <string name="aa">999+</string>
+</resources>

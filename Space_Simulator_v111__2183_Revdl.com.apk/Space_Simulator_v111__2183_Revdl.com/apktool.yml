@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Space_Simulator_v111__2183_Revdl.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- unity3d
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '25'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4-dirty
+versionInfo:
+  versionCode: '111'
+  versionName: '111'

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:background="@color/t" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.AppBarLayout android:theme="@style/au" android:orientation="vertical" android:id="@id/d1" android:layout_width="fill_parent" android:layout_height="@dimen/fo">
+        <com.muzakki.ahmad.widget.CollapsingToolbarLayout android:id="@id/d2" android:layout_width="fill_parent" android:layout_height="fill_parent" app:title=" " app:layout_scrollFlags="a1|a2" app:expandedTitleMarginStart="@dimen/dw" app:expandedTitleMarginBottom="@dimen/av" app:expandedTitleTextAppearance="@style/kk" app:collapsedTitleTextAppearance="@style/kj" app:contentScrim="@color/bd" app:expandedTitleGravity="ac" app:collapsedSubtitleAppearance="@style/kh" app:expandedSubtitleAppearance="@style/kg">
+            <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/g2" android:scaleType="centerCrop" android:adjustViewBounds="true" app:layout_collapseMode="al" />
+            <FrameLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="@dimen/dy">
+                <ProgressBar android:id="@id/d3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:progressDrawable="@drawable/al" android:minHeight="24.0dip" style="@android:style/Widget.ProgressBar.Horizontal" />
+                <TextView android:layout_gravity="center" android:id="@id/d4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/MWidget.TextView.Boost.Usage" />
+            </FrameLayout>
+            <android.support.v7.widget.Toolbar android:background="@null" android:layout_width="fill_parent" android:layout_height="@dimen/ax" android:minHeight="?br" app:popupTheme="@style/dd" app:layout_collapseMode="am" app:navigationIcon="@android:color/transparent" />
+        </com.muzakki.ahmad.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+    <com.pureapps.cleaner.view.AnimatedExpandableListView android:id="@id/d5" android:background="@color/t" android:layout_width="fill_parent" android:layout_height="fill_parent" android:groupIndicator="@null" android:childDivider="@null" android:divider="@null" android:layout_below="@id/d1" app:layout_behavior="@string/f3" />
+    <RelativeLayout android:id="@id/d6" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Button android:id="@id/d7" android:visibility="visible" android:text="@string/ao" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/MWidget.Button.Main.BackgroundSelectorFull" />
+        <FrameLayout android:background="#7f000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="bottom|center" android:background="@drawable/dv" android:visibility="gone" android:layout_width="@dimen/cr" android:layout_height="@dimen/cr" android:layout_marginBottom="@dimen/co" android:src="@drawable/ab" android:scaleType="center" />
+        </FrameLayout>
+        <android.support.v7.widget.Toolbar android:theme="@style/au" android:id="@id/d8" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?br" app:popupTheme="@style/dd" app:titleMarginTop="15.0dip">
+            <TextView android:layout_gravity="start|center" android:id="@id/d9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="title" style="@style/TextAppearance.AppCompat.Title" />
+        </android.support.v7.widget.Toolbar>
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

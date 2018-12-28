@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/g4" android:background="@color/p" android:layout_width="fill_parent" android:layout_height="@dimen/ee">
+        <com.pureapps.cleaner.view.DiffusionBgLayout android:id="@id/g5" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/fk" android:paddingRight="@dimen/fk" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/g1" android:layout_width="@dimen/ef" android:layout_height="@dimen/ef" android:layout_margin="@dimen/fk" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:id="@id/ew" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fl" android:singleLine="true" style="@style/MWidget.TextView.BoostList.ChildTitle" />
+                <TextView android:id="@id/g6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fl" style="@style/MWidget.TextView.BoostList.ChildSummary" />
+            </LinearLayout>
+            <TextView android:id="@id/g7" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <CheckBox android:layout_gravity="center" android:id="@id/g3" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MWidget.ListItem.CheckBox" />
+        </LinearLayout>
+        <View android:background="#ffebebeb" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="@dimen/fk" android:layout_marginRight="@dimen/fk" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</LinearLayout>

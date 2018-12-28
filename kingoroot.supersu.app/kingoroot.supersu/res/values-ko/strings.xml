@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">홈 탐색</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">위로 탐색</string>
+    <string name="e">옵션 더보기</string>
+    <string name="f">완료</string>
+    <string name="g">전체 보기</string>
+    <string name="h">앱 선택</string>
+    <string name="i">사용 안함</string>
+    <string name="j">사용</string>
+    <string name="k">검색...</string>
+    <string name="l">검색어 삭제</string>
+    <string name="m">검색어</string>
+    <string name="n">검색</string>
+    <string name="o">검색어 보내기</string>
+    <string name="p">음성 검색</string>
+    <string name="q">공유 대상</string>
+    <string name="r">%s와(과) 공유</string>
+    <string name="s">접기</string>
+    <string name="t">사용 설정</string>
+    <string name="u">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="v">Google Play 서비스 사용</string>
+    <string name="w">설치</string>
+    <string name="x">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="y">Google Play 서비스 설치</string>
+    <string name="z">Google Play 서비스 오류</string>
+    <string name="a0">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="a1">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="a2">업데이트</string>
+    <string name="a3">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="a4">Google Play 서비스 업데이트</string>
+    <string name="a5">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="a6">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="a7">스마트폰에서 열기</string>
+    <string name="a8">로그인</string>
+    <string name="a9">Google 계정으로 로그인</string>
+    <string name="a_">검색</string>
+    <string name="aa">999+</string>
+</resources>

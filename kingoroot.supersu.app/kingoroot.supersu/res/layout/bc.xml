@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/ee"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ga" android:paddingLeft="@dimen/fk" android:paddingRight="@dimen/fk" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/g1" android:layout_width="@dimen/ef" android:layout_height="@dimen/ef" android:layout_margin="@dimen/fk" />
+        <LinearLayout android:orientation="vertical" android:paddingLeft="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.kingouser.com.customview.MyDrawbleText android:id="@id/ew" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:singleLine="true" style="@style/MWidget.TextView.AppManager.DelIteam.Titel" />
+            <com.kingouser.com.customview.MyDrawbleText android:id="@id/gb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" style="@style/MWidget.TextView.AppManager.DelIteam.Filesize" />
+        </LinearLayout>
+        <CheckBox android:id="@id/by" android:padding="@dimen/fl" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fk" android:button="@drawable/bo" />
+    </LinearLayout>
+    <TextView android:background="#ffd7d7d7" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" />
+</LinearLayout>

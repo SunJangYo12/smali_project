@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/bl" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/cl" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/cm" android:background="@color/bp" android:paddingLeft="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:layout_marginTop="15.0dip" android:text="@string/bz" />
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/cn" android:background="@color/bp" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:text="@string/ac" />
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/co" android:background="@color/bp" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:text="@string/el" />
+            <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <TextView android:background="@drawable/bp" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+            <com.kingouser.com.customview.MyDrawbleText android:textColor="@color/g" android:gravity="center_vertical" android:id="@id/cp" android:background="@color/bp" android:paddingLeft="@dimen/cj" android:paddingRight="@dimen/cj" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/b" android:text="paypal" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

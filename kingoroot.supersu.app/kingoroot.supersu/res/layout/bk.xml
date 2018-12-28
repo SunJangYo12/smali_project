@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="70.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/go" android:clickable="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/bg" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginLeft="15.0dip" android:src="@mipmap/a" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+            <com.kingouser.com.customview.MyDrawbleText android:textSize="16.0sp" android:textColor="#ff303030" android:ellipsize="marquee" android:id="@id/bh" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="title" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+            <com.kingouser.com.customview.MyDrawbleText android:textSize="14.0sp" android:textColor="#ff848ca9" android:ellipsize="marquee" android:id="@id/ga" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:text="content" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+        </LinearLayout>
+        <TextView android:textSize="15.0sp" android:textColor="#ff848ca9" android:id="@id/gp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:text="00:00" />
+    </LinearLayout>
+    <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+</LinearLayout>

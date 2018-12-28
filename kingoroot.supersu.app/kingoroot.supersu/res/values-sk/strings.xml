@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Prejsť na plochu</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Prejsť hore</string>
+    <string name="e">Ďalšie možnosti</string>
+    <string name="f">Hotovo</string>
+    <string name="g">Zobraziť všetko</string>
+    <string name="h">Zvoľte aplikáciu</string>
+    <string name="i">VYP.</string>
+    <string name="j">ZAP.</string>
+    <string name="k">Vyhľadať…</string>
+    <string name="l">Vymazať dopyt</string>
+    <string name="m">Vyhľadávací dopyt</string>
+    <string name="n">Hľadať</string>
+    <string name="o">Odoslať dopyt</string>
+    <string name="p">Hlasové vyhľadávanie</string>
+    <string name="q">Zdieľať pomocou</string>
+    <string name="r">Zdieľať pomocou %s</string>
+    <string name="s">Zbaliť</string>
+    <string name="t">Povoliť</string>
+    <string name="u">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
+    <string name="v">Povoliť služby Google Play</string>
+    <string name="w">Inštalovať</string>
+    <string name="x">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na zariadení nemáte.</string>
+    <string name="y">Inštalovať služby Google Play</string>
+    <string name="z">Chyba služieb Google Play</string>
+    <string name="a0">Aplikácia %1$s má problémy so službami Google Play. Skúste to znova.</string>
+    <string name="a1">Aplikáciu %1$s nebude možné spustiť bez služieb Google Play, ktoré vaše zariadenie nepodporuje.</string>
+    <string name="a2">Aktualizovať</string>
+    <string name="a3">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="a4">Aktualizácia služieb Google Play</string>
+    <string name="a5">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
+    <string name="a6">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
+    <string name="a7">Otvoriť v telefóne</string>
+    <string name="a8">Prihlásiť sa</string>
+    <string name="a9">Prihlásiť sa do účtu Google</string>
+    <string name="a_">Vyhľadávanie</string>
+    <string name="aa">999+</string>
+</resources>

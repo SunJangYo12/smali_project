@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Қосу</string>
+    <string name="u">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string name="v">Google Play қызметтерін қосу</string>
+    <string name="w">Орнату</string>
+    <string name="x">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="y">Google Play қызметтерін алу</string>
+    <string name="z">Google Play қызметтерінің қатесі</string>
+    <string name="a0">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="a1">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
+    <string name="a2">Жаңарту</string>
+    <string name="a3">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="a4">Google Play қызметтерін жаңарту</string>
+    <string name="a5">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="a6">Google Play қызметтерінің жаңа нұсқасы қажет. Ол қысқа уақыттан кейін өзі жаңарады.</string>
+    <string name="a7">Телефонда ашу</string>
+    <string name="a8">Кіру</string>
+    <string name="a9">Google арқылы кіру</string>
+</resources>

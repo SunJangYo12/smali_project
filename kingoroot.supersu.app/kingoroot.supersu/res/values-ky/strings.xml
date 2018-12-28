@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Иштетүү</string>
+    <string name="u">Google Play кызматтарын иштетмейиңизче %1$s иштебейт.</string>
+    <string name="v">Google Play кызматтарын иштетүү</string>
+    <string name="w">Орнотуу</string>
+    <string name="x">Google Play кызматтарысыз %1$s иштебейт. Алар түзмөгүңүздө жок болуп жатат.</string>
+    <string name="y">Google Play кызматтарын алуу</string>
+    <string name="z">Google Play кызматтарынын катасы</string>
+    <string name="a0">%1$s колдонмосунун Google Play кызматтары менен иштөөдө көйгөй чыкты. Кайра аракет кылыңыз.</string>
+    <string name="a1">%1$s колдонмосу сиздин түзмөгүңүздө колдоого алынбаган Google Play кызматтары болбосо иштебейт.</string>
+    <string name="a2">Жаңыртуу</string>
+    <string name="a3">Google Play кызматтары жаңыртылмайынча %1$s иштебейт.</string>
+    <string name="a4">Google Play кызматтарын жаңыртуу</string>
+    <string name="a5">Google Play кызматтарысыз %1$s иштебейт, алар учурда жаңыртылууда.</string>
+    <string name="a6">Google Play кызматтарынын жаңы версиясы талап кылынат. Бир аздан кийин ал өзү эле жаңыртылат.</string>
+    <string name="a7">Телефондо ачык</string>
+    <string name="a8">Кирүү</string>
+    <string name="a9">Google менен кирүү</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="as" parent="@style/f5">
+        <item name="android:background">@drawable/aj</item>
+        <item name="android:paddingLeft">@dimen/fm</item>
+        <item name="android:paddingTop">@dimen/fj</item>
+        <item name="android:paddingRight">@dimen/fm</item>
+        <item name="android:paddingBottom">@dimen/fj</item>
+        <item name="android:layout_marginLeft">@dimen/fk</item>
+        <item name="android:layout_marginRight">@dimen/fk</item>
+    </style>
+    <style name="at" parent="@style/as">
+        <item name="android:background">@drawable/ak</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+    </style>
+    <style name="da" parent="@style/hq">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="df">@color/ah</item>
+        <item name="dg">@color/ai</item>
+        <item name="dh">@color/ai</item>
+    </style>
+    <style name="ds" parent="@style/g">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="df">@color/ah</item>
+        <item name="dg">@color/ai</item>
+        <item name="dh">@color/ai</item>
+    </style>
+    <style name="dt" parent="@style/l">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="df">@color/ah</item>
+        <item name="dg">@color/ai</item>
+        <item name="dh">@color/ai</item>
+    </style>
+    <style name="du" parent="@style/l">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="df">@color/ah</item>
+        <item name="dg">@color/ai</item>
+        <item name="dh">@color/ah</item>
+    </style>
+    <style name="i1" parent="@style/dt">
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+</resources>

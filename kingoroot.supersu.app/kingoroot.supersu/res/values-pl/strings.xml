@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Przejdź do strony głównej</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Przejdź wyżej</string>
+    <string name="e">Więcej opcji</string>
+    <string name="f">Gotowe</string>
+    <string name="g">Zobacz wszystkie</string>
+    <string name="h">Wybierz aplikację</string>
+    <string name="i">WYŁ.</string>
+    <string name="j">WŁ.</string>
+    <string name="k">Szukaj…</string>
+    <string name="l">Wyczyść zapytanie</string>
+    <string name="m">Wyszukiwane hasło</string>
+    <string name="n">Szukaj</string>
+    <string name="o">Wyślij zapytanie</string>
+    <string name="p">Wyszukiwanie głosowe</string>
+    <string name="q">Udostępnij dla</string>
+    <string name="r">Udostępnij dla %s</string>
+    <string name="s">Zwiń</string>
+    <string name="t">Włącz</string>
+    <string name="u">Aplikacja %1$s nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
+    <string name="v">Włącz Usługi Google Play</string>
+    <string name="w">Zainstaluj</string>
+    <string name="x">%1$s nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play.</string>
+    <string name="y">Pobierz Usługi Google Play</string>
+    <string name="z">Błąd Usług Google Play</string>
+    <string name="a0">%1$s ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz.</string>
+    <string name="a1">%1$s nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie.</string>
+    <string name="a2">Aktualizuj</string>
+    <string name="a3">Aplikacja %1$s nie będzie działać, jeśli nie zaktualizujesz Usług Google Play.</string>
+    <string name="a4">Zaktualizuj Usługi Google Play</string>
+    <string name="a5">Aplikacja %1$s nie będzie działać bez Usług Google Play, które są obecnie aktualizowane.</string>
+    <string name="a6">Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja.</string>
+    <string name="a7">Otwórz na telefonie</string>
+    <string name="a8">Zaloguj się</string>
+    <string name="a9">Zaloguj się przez Google</string>
+    <string name="a_">Szukaj</string>
+    <string name="aa">999+</string>
+</resources>

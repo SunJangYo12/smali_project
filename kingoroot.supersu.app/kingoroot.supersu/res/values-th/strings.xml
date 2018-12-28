@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">นำทางไปหน้าแรก</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">นำทางขึ้น</string>
+    <string name="e">ตัวเลือกอื่น</string>
+    <string name="f">เสร็จสิ้น</string>
+    <string name="g">ดูทั้งหมด</string>
+    <string name="h">เลือกแอป</string>
+    <string name="i">ปิด</string>
+    <string name="j">เปิด</string>
+    <string name="k">ค้นหา…</string>
+    <string name="l">ล้างข้อความค้นหา</string>
+    <string name="m">ข้อความค้นหา</string>
+    <string name="n">ค้นหา</string>
+    <string name="o">ส่งข้อความค้นหา</string>
+    <string name="p">ค้นหาด้วยเสียง</string>
+    <string name="q">แชร์กับ</string>
+    <string name="r">แชร์กับ %s</string>
+    <string name="s">ยุบ</string>
+    <string name="t">เปิดใช้</string>
+    <string name="u">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="v">เปิดใช้บริการ Google Play</string>
+    <string name="w">ติดตั้ง</string>
+    <string name="x">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="y">ติดตั้งบริการ Google Play</string>
+    <string name="z">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="a0">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="a1">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="a2">อัปเดต</string>
+    <string name="a3">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="a4">อัปเดตบริการ Google Play</string>
+    <string name="a5">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="a6">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="a7">เปิดบนโทรศัพท์</string>
+    <string name="a8">ลงชื่อเข้าใช้</string>
+    <string name="a9">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="a_">ค้นหา</string>
+    <string name="aa">999+</string>
+</resources>

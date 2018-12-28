@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/bl" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:padding="@dimen/fj" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/c2" style="@style/MWidget.TextView.Ignore.Desc" />
+    <android.support.v7.widget.RecyclerView android:id="@id/d5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <View android:background="@color/b8" android:layout_width="fill_parent" android:layout_height="@dimen/ea" />
+    <Button android:id="@id/f6" android:text="@string/b9" style="@style/MWidget.Button.Main.BackgroundSelectorFull" />
+</LinearLayout>

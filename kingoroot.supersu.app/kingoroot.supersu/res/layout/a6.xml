@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:fitsSystemWindows="true" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.design.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <android.support.design.widget.AppBarLayout android:theme="@style/au" android:orientation="vertical" android:id="@id/d1" android:layout_width="fill_parent" android:layout_height="@dimen/fo">
+                <com.muzakki.ahmad.widget.CollapsingToolbarLayout android:id="@id/d2" android:layout_width="fill_parent" android:layout_height="fill_parent" app:title=" " app:layout_scrollFlags="a1|a2" app:expandedTitleMarginStart="@dimen/dw" app:expandedTitleMarginBottom="@dimen/av" app:expandedTitleTextAppearance="@style/kk" app:collapsedTitleTextAppearance="@style/kj" app:contentScrim="@color/ah" app:expandedTitleGravity="ac" app:collapsedSubtitleAppearance="@style/kh" app:expandedSubtitleAppearance="@style/kg">
+                    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/g2" android:scaleType="centerCrop" android:adjustViewBounds="true" app:layout_collapseMode="al" />
+                    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="bottom" android:id="@id/d_" android:background="#27000000" android:layout_width="fill_parent" android:layout_height="@dimen/dy" />
+                    <android.support.v7.widget.Toolbar android:background="@null" android:layout_width="fill_parent" android:layout_height="@dimen/ax" android:minHeight="?br" app:popupTheme="@style/dd" app:layout_collapseMode="am" app:navigationIcon="@android:color/transparent" />
+                </com.muzakki.ahmad.widget.CollapsingToolbarLayout>
+            </android.support.design.widget.AppBarLayout>
+            <android.support.v7.widget.RecyclerView android:id="@id/d5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:groupIndicator="@null" android:childDivider="@null" android:divider="@null" app:layout_behavior="@string/f3" />
+        </android.support.design.widget.CoordinatorLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:gravity="center" android:id="@id/da" android:visibility="visible" android:layout_height="50.0dip" android:text="@string/al" style="@style/MWidget.Button.Main.BackgroundSelectorFull" />
+            <ProgressBar android:layout_gravity="center_vertical" android:id="@id/d3" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="20.0dip" android:indeterminate="true" />
+        </FrameLayout>
+    </LinearLayout>
+    <android.support.v7.widget.Toolbar android:theme="@style/au" android:id="@id/cr" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?br" app:popupTheme="@style/dd" app:titleMarginTop="15.0dip">
+        <TextView android:layout_gravity="start|center" android:id="@id/bh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="title" style="@style/TextAppearance.AppCompat.Title" />
+    </android.support.v7.widget.Toolbar>
+    <FrameLayout android:id="@id/db" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="200.0dip">
+        <ImageView android:layout_gravity="center" android:id="@id/dc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ez" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/dd" android:background="#7f000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/de" android:background="#7f000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="bottom|center" android:id="@id/df" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ed" />
+        <ImageView android:layout_gravity="bottom" android:id="@id/dg" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/eg" android:scaleType="centerCrop" />
+    </FrameLayout>
+</FrameLayout>

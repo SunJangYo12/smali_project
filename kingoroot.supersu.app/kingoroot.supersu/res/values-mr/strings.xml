@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">सक्षम करा</string>
+    <string name="u">आपण Google Play सेवा सक्षम केल्याशिवाय %1$s हा अॅप कार्य करणार नाही.</string>
+    <string name="v">Google Play सेवा सक्षम करा</string>
+    <string name="w">स्‍थापित करा</string>
+    <string name="x">Google Play सेवा आपल्या डिव्हाइसवर उपलब्ध नाही, त्याशिवाय %1$s चालणार नाही.</string>
+    <string name="y">Google Play सेवा मिळवा</string>
+    <string name="z">Google Play सेवा त्रुटी</string>
+    <string name="a0">%1$s ला Google Play सेवांमध्ये समस्या येत आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="a1">आपले डिव्हाइस समर्थन देत नसलेल्या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="a2">अद्यतनित करा</string>
+    <string name="a3">आपण Google Play सेवा अद्यतनित करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="a4">Google Play सेवा अद्यतनित करा</string>
+    <string name="a5">सध्‍या अद्यतनित होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="a6">Google Play सेवांच्या नवीन आवृत्तीची आवश्यकता आहे. हे स्वत:ला लवकरच अद्यतनित करेल.</string>
+    <string name="a7">फोनवर उघडा</string>
+    <string name="a8">साइन इन करा</string>
+    <string name="a9">Google सह साइन इन करा</string>
+</resources>

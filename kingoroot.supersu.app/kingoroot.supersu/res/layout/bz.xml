@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/bq" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/fg" android:textColor="@color/cx" android:gravity="center" android:id="@id/ew" android:padding="@dimen/cm" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/df" />
+    <View android:background="@color/cw" android:paddingTop="@dimen/cl" android:paddingBottom="@dimen/cl" android:layout_width="fill_parent" android:layout_height="2.0px" />
+    <TextView android:textSize="@dimen/u" android:textColor="@color/cp" android:gravity="center" android:id="@id/f9" android:paddingTop="@dimen/f7" android:paddingBottom="@dimen/f7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dh" />
+    <LinearLayout android:paddingBottom="@dimen/cl" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="@dimen/fg" android:textColor="@color/v" android:gravity="center" android:id="@id/ey" android:background="@drawable/bm" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="@string/dg" android:layout_weight="1.0" />
+        <Button android:textSize="@dimen/fg" android:textColor="@color/cv" android:gravity="center" android:id="@id/i_" android:background="@drawable/bm" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="@string/di" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

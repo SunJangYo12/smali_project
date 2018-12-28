@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Dayakan</string>
+    <string name="u">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="v">Dayakan perkhidmatan Google Play</string>
+    <string name="w">Pasang</string>
+    <string name="x">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string name="y">Dapatkan perkhidmatan Google Play</string>
+    <string name="z">Ralat perkhidmatan Google Play</string>
+    <string name="a0">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="a1">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string name="a2">Kemas kini</string>
+    <string name="a3">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="a4">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="a5">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="a6">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="a7">Buka pada telefon</string>
+    <string name="a8">Log masuk</string>
+    <string name="a9">Log masuk dengan Google</string>
+</resources>

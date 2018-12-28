@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <FrameLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/cu" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:background="@drawable/g2" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="4.0" />
+                <TextView android:background="#ff3165ce" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="3.0" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/cv" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:paddingLeft="30.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+                <TextView android:textSize="@dimen/fa" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/cw" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="result" />
+                <TextView android:textSize="@dimen/fb" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/cx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="unit" />
+                <TextView android:textSize="@dimen/f_" android:textColor="#ffffffff" android:id="@id/cy" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:text="des" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+</RelativeLayout>

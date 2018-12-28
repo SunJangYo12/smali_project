@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Krmarjenje domov</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">Krmarjenje navzgor</string>
+    <string name="e">Več možnosti</string>
+    <string name="f">Končano</string>
+    <string name="g">Pokaži vse</string>
+    <string name="h">Izbira aplikacije</string>
+    <string name="i">IZKLOPLJENO</string>
+    <string name="j">VKLOPLJENO</string>
+    <string name="k">Iskanje …</string>
+    <string name="l">Izbris poizvedbe</string>
+    <string name="m">Iskalna poizvedba</string>
+    <string name="n">Iskanje</string>
+    <string name="o">Pošiljanje poizvedbe</string>
+    <string name="p">Glasovno iskanje</string>
+    <string name="q">Deljenje z</string>
+    <string name="r">Deljenje z:</string>
+    <string name="s">Strni</string>
+    <string name="t">Omogoči</string>
+    <string name="u">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="v">Omogočanje storitev Google Play</string>
+    <string name="w">Namesti</string>
+    <string name="x">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
+    <string name="y">Namestitev storitev Google Play</string>
+    <string name="z">Napaka storitev Google Play</string>
+    <string name="a0">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+    <string name="a1">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
+    <string name="a2">Posodobi</string>
+    <string name="a3">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string name="a4">Posodobitev storitev Google Play</string>
+    <string name="a5">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="a6">Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile.</string>
+    <string name="a7">Odpiranje v telefonu</string>
+    <string name="a8">Prijava</string>
+    <string name="a9">Prijava z Google Računom</string>
+    <string name="a_">Iskanje</string>
+    <string name="aa">999+</string>
+</resources>

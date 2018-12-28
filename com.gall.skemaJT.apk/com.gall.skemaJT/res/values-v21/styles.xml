@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorControlNormal">#ff008dcd</item>
+        <item name="android:colorControlHighlight">#ff008dcd</item>
+        <item name="android:colorPrimary">#ff008dcd</item>
+        <item name="android:colorPrimaryDark">#ff0084c2</item>
+        <item name="android:colorAccent">#ff008dcd</item>
+    </style>
+    <style name="NoActionBar" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorControlNormal">#ff008dcd</item>
+        <item name="android:colorControlHighlight">#ff008dcd</item>
+        <item name="android:colorPrimary">#ff008dcd</item>
+        <item name="android:colorPrimaryDark">#ff0084c2</item>
+        <item name="android:colorAccent">#ff008dcd</item>
+    </style>
+    <style name="FullScreen" parent="@android:style/Theme.Material.Light.NoActionBar.Fullscreen">
+        <item name="android:colorControlNormal">#ff008dcd</item>
+        <item name="android:colorControlHighlight">#ff008dcd</item>
+        <item name="android:colorPrimary">#ff008dcd</item>
+        <item name="android:colorPrimaryDark">#ff0084c2</item>
+        <item name="android:colorAccent">#ff008dcd</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/ag" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="@dimen/p"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/u" android:layout_gravity="center" android:id="@id/ia" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_marginBottom="7.0dip" android:text="@string/ax" />
+    <View android:background="@color/w" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginBottom="33.0dip" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/q" android:layout_marginRight="@dimen/q" android:layout_marginBottom="24.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/ib" android:layout_width="65.0dip" android:layout_height="65.0dip" android:src="@drawable/eh" android:scaleType="fitCenter" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_weight="1.0">
+            <TextView android:textColor="@color/d2" android:ellipsize="end" android:id="@id/ic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:singleLine="true" />
+            <TextView android:textColor="@color/d1" android:id="@id/id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="4.0dip" android:text="@string/dk" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textColor="@color/d1" android:id="@id/hy" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dl" />
+                    <TextView android:textColor="@color/d1" android:id="@id/ie" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/co" />
+                </FrameLayout>
+                <TextView android:textColor="@color/d1" android:ellipsize="end" android:id="@id/if" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/eh" android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textSize="@dimen/cl" android:textColor="@color/cx" android:gravity="center_horizontal" android:id="@id/ig" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="39.0dip" android:text="@string/dj" android:singleLine="true" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip">
+        <Button android:textColor="@color/cz" android:id="@id/ih" android:background="@drawable/bn" android:layout_width="@dimen/f8" android:layout_height="@dimen/f7" android:layout_marginRight="40.0dip" android:text="@string/bo" />
+        <Button android:textColor="@color/d0" android:id="@id/ii" android:background="@drawable/bn" android:layout_width="@dimen/f8" android:layout_height="@dimen/f7" android:layout_marginLeft="40.0dip" android:text="@string/ai" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ProgressBar android:layout_gravity="center_vertical" android:id="@id/d3" android:layout_width="fill_parent" android:layout_height="3.0dip" android:progressDrawable="@drawable/bl" style="?android:attr/progressBarStyleHorizontal" />
+    </LinearLayout>
+</LinearLayout>

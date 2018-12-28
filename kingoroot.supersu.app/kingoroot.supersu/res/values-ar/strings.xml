@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">التنقل إلى الشاشة الرئيسية</string>
+    <string name="b">%1$s، %2$s</string>
+    <string name="c">%1$s، %2$s، %3$s</string>
+    <string name="d">التنقل إلى أعلى</string>
+    <string name="e">خيارات إضافية</string>
+    <string name="f">تم</string>
+    <string name="g">عرض الكل</string>
+    <string name="h">اختيار تطبيق</string>
+    <string name="i">إيقاف</string>
+    <string name="j">تشغيل</string>
+    <string name="k">بحث…</string>
+    <string name="l">محو طلب البحث</string>
+    <string name="m">طلب البحث</string>
+    <string name="n">بحث</string>
+    <string name="o">إرسال طلب البحث</string>
+    <string name="p">البحث الصوتي</string>
+    <string name="q">مشاركة مع</string>
+    <string name="r">‏مشاركة مع %s</string>
+    <string name="s">تصغير</string>
+    <string name="t">تمكين</string>
+    <string name="u">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="v">‏تمكين خدمات Google Play</string>
+    <string name="w">تثبيت</string>
+    <string name="x">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="y">‏الحصول على خدمات Google Play</string>
+    <string name="z">‏خطأ في خدمات Google Play</string>
+    <string name="a0">‏لدى %1$s مشكلة في خدمات Google Play. الرجاء إعادة المحاولة.</string>
+    <string name="a1">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="a2">تحديث</string>
+    <string name="a3">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="a4">‏تحديث خدمات Google Play</string>
+    <string name="a5">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="a6">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="a7">فتح على الهاتف</string>
+    <string name="a8">تسجل الدخول</string>
+    <string name="a9">‏تسجيل الدخول عبر Google</string>
+    <string name="a_">البحث</string>
+    <string name="aa">+999</string>
+</resources>

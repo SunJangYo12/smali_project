@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/be" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.AppBarLayout android:theme="@style/au" android:orientation="vertical" android:id="@id/cq" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:id="@id/cr" android:background="@color/ah" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?br" android:elevation="4.0dip" app:popupTheme="@style/dd" app:titleMarginTop="15.0dip">
+            <TextView android:layout_gravity="start|center" android:id="@id/bh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="title" android:transitionName="@string/ar" style="@style/TextAppearance.AppCompat.Title" />
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/e8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/dx" />
+        <ListView android:id="@id/e9" android:visibility="invisible" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:divider="@color/be" android:dividerHeight="1.0px" />
+        <TextView android:background="@drawable/bp" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+    </FrameLayout>
+</LinearLayout>

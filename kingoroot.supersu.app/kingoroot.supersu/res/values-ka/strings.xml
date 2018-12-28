@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">ჩართვა</string>
+    <string name="u">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="v">Google Play Services-ის ჩართვა</string>
+    <string name="w">ინსტალაცია</string>
+    <string name="x">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="y">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="z">Google Play Services-ის შეცდომა</string>
+    <string name="a0">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="a1">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="a2">განახლება</string>
+    <string name="a3">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="a4">განაახლეთ Google Play Services</string>
+    <string name="a5">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="a6">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="a7">ტელეფონში გახსნა</string>
+    <string name="a8">შესვლა</string>
+    <string name="a9">Google-ით შესვლა</string>
+</resources>

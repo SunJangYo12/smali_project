@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/ah" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <android.support.v7.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom" android:layout_gravity="center" android:id="@id/il" android:layout_width="wrap_content" android:layout_height="50.0dip" android:text="@string/fj" />
+    </FrameLayout>
+    <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="0.0dip" android:src="@drawable/g3" android:layout_weight="1.0" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.pureapps.cleaner.view.AlignTextView android:textColor="@android:color/white" android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginRight="30.0dip" android:text="@string/fi" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.pureapps.cleaner.view.ShadowLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/cp" android:layout_marginRight="@dimen/cp" app:sl_cornerRadius="@dimen/ct" app:sl_dy="3.0dip">
+            <com.pureapps.cleaner.view.FlashButton android:id="@id/im" android:background="#ff01b852" android:visibility="visible" android:text="@string/dt" style="@style/MWidget.Button.Main.Bg" />
+        </com.pureapps.cleaner.view.ShadowLayout>
+    </FrameLayout>
+</LinearLayout>

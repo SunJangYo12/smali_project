@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Միացնել</string>
+    <string name="u">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="v">Միացնել Google Play ծառայությունները</string>
+    <string name="w">Տեղադրել</string>
+    <string name="x">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="y">Տեղադրել Google Play ծառայությունները</string>
+    <string name="z">Google Play ծառայությունների սխալ կա</string>
+    <string name="a0">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="a1">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="a2">Թարմացնել</string>
+    <string name="a3">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="a4">Թարմացնել Google Play ծառայությունները</string>
+    <string name="a5">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="a6">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="a7">Բացել հեռախոսով</string>
+    <string name="a8">Մուտք գործել</string>
+    <string name="a9">Մուտք գործել Google-ով</string>
+</resources>

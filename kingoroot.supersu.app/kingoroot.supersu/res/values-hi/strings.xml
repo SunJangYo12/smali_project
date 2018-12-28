@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">मुख्यपृष्ठ पर नेविगेट करें</string>
+    <string name="b">%1$s, %2$s</string>
+    <string name="c">%1$s, %2$s, %3$s</string>
+    <string name="d">ऊपर नेविगेट करें</string>
+    <string name="e">अधिक विकल्प</string>
+    <string name="f">पूर्ण</string>
+    <string name="g">सभी देखें</string>
+    <string name="h">कोई एप्‍लिकेशन चुनें</string>
+    <string name="i">बंद</string>
+    <string name="j">चालू</string>
+    <string name="k">खोजा जा रहा है…</string>
+    <string name="l">क्‍वेरी साफ़ करें</string>
+    <string name="m">खोज क्वेरी</string>
+    <string name="n">खोजें</string>
+    <string name="o">क्वेरी सबमिट करें</string>
+    <string name="p">ध्वनि खोज</string>
+    <string name="q">इसके द्वारा साझा करें</string>
+    <string name="r">%s के साथ साझा करें</string>
+    <string name="s">संक्षिप्त करें</string>
+    <string name="t">सक्षम करें</string>
+    <string name="u">%1$s तब तक कार्य नहीं करेगा जब तक आप Google Play सेवाओं को सक्षम नहीं करते.</string>
+    <string name="v">Google Play सेवाएं सक्षम करना</string>
+    <string name="w">इंस्टॉल करें</string>
+    <string name="x">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा जो आपके डिवाइस में उपलब्ध नहीं हैं.</string>
+    <string name="y">Google Play सेवाएं प्राप्त करना</string>
+    <string name="z">Google Play सेवाएं त्रुटि</string>
+    <string name="a0">%1$s को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से प्रयास करें.</string>
+    <string name="a1">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके डिवाइस द्वारा समर्थित नहीं हैं.</string>
+    <string name="a2">अपडेट करें</string>
+    <string name="a3">%1$s तब तक नहीं चलेगा जब तक आप Google Play सेवाओं को अपडेट नहीं करते.</string>
+    <string name="a4">Google Play सेवाओं को अपडेट करें</string>
+    <string name="a5">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा जो वर्तमान में अपडेट हो रही हैं.</string>
+    <string name="a6">Google Play सेवाओं के नए वर्शन की आवश्यकता है. यह स्वयं को जल्दी ही अपडेट करेगा.</string>
+    <string name="a7">फ़ोन पर खोलें</string>
+    <string name="a8">प्रवेश करें</string>
+    <string name="a9">Google के साथ प्रवेश करें</string>
+    <string name="a_">खोज</string>
+    <string name="aa">999+</string>
+</resources>

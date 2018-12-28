@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@id/dh" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/activity_content_main" />
+    <com.pureapps.cleaner.view.etsyblur.BlurringView android:id="@id/di" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <android.support.design.internal.ScrimInsetsFrameLayout android:layout_gravity="start" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" app:insetForeground="#44000000">
+        <android.support.design.widget.NavigationView android:id="@id/dj" android:layout_width="fill_parent" android:layout_height="fill_parent" app:elevation="3.0dip" app:menu="@menu/a" app:headerLayout="@layout/bd" />
+    </android.support.design.internal.ScrimInsetsFrameLayout>
+</android.support.v4.widget.DrawerLayout>

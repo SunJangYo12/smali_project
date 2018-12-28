@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/r" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/eb">
+        <View android:background="@color/t" android:layout_width="fill_parent" android:layout_height="6.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/fk" android:paddingRight="@dimen/fk" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/eb">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/fk" android:layout_marginLeft="@dimen/cl" android:text="@string/e_" android:layout_weight="1.0" style="@style/MWidget.TextView.BoostList.Group" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/p" android:paddingLeft="@dimen/fk" android:paddingRight="@dimen/fk" android:layout_width="fill_parent" android:layout_height="@dimen/ee">
+        <TextView android:textSize="@dimen/fq" android:textColor="#ffffffff" android:ellipsize="none" android:gravity="center" android:id="@id/fv" android:background="@drawable/dw" android:layout_width="wrap_content" android:layout_height="@dimen/ed" android:layout_margin="@dimen/ec" android:minWidth="@dimen/ed" android:singleLine="true" />
+        <TextView android:id="@id/ew" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fl" android:layout_weight="1.0" style="@style/MWidget.TextView.BoostList.ChildTitle" />
+        <Button android:textSize="@dimen/fp" android:textColor="#ffffffff" android:id="@id/fw" android:background="@drawable/ah" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/fk" android:minHeight="36.0dip" android:text="@string/b7" android:textAllCaps="false" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/fx" android:background="@color/r" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/eb">
+        <View android:background="@color/t" android:layout_width="fill_parent" android:layout_height="6.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/fk" android:paddingRight="@dimen/fk" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/eb">
+            <TextView android:id="@id/fy" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/fk" android:layout_marginLeft="@dimen/cl" android:text="@string/ea" android:layout_weight="1.0" style="@style/MWidget.TextView.BoostList.Group" />
+            <com.pureapps.cleaner.view.TickerTextView android:textSize="@dimen/au" android:textColor="@color/z" android:gravity="center" android:id="@id/fz" android:background="@drawable/ai" android:layout_width="23.0dip" android:layout_height="23.0dip" android:layout_marginRight="@dimen/fj" android:minWidth="23.0dip" android:minHeight="23.0dip" android:shadowDx="2.0" android:shadowDy="2.0" />
+            <CheckBox android:id="@id/g0" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MWidget.ListItem.CheckBox" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

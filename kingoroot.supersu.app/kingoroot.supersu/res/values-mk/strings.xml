@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t">Овозможи</string>
+    <string name="u">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+    <string name="v">Овозможи ги услугите на Google Play</string>
+    <string name="w">Инсталирај</string>
+    <string name="x">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
+    <string name="y">Преземи ги услугите на Google Play</string>
+    <string name="z">Грешка на услугите на Google Play</string>
+    <string name="a0">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
+    <string name="a1">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
+    <string name="a2">Ажурирај</string>
+    <string name="a3">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+    <string name="a4">Ажурирај ги услугите на Google Play</string>
+    <string name="a5">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+    <string name="a6">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+    <string name="a7">Отвори на телефонот</string>
+    <string name="a8">Најави се</string>
+    <string name="a9">Најави се со Google</string>
+</resources>

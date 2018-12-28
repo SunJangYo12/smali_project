@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:background="#ff068dff" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:layout_width="330.0dip" android:layout_height="@dimen/aw" android:src="@drawable/g1" android:scaleType="fitXY" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/dx" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <android.support.v7.widget.RecyclerView android:id="@id/dy" android:layoutAnimation="@anim/q" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+                <Button android:textSize="18.0sp" android:textColor="#ffffffff" android:id="@id/dz" android:background="@drawable/aa" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="10.0dip" android:text="@string/bc" />
+            </LinearLayout>
+            <com.kingouser.com.customview.MyDrawbleText android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ff838383" android:gravity="center" android:layout_gravity="center" android:id="@id/e0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/bd" />
+        </FrameLayout>
+    </LinearLayout>
+    <android.support.design.widget.AppBarLayout android:theme="@style/au" android:id="@id/cq" android:background="@android:color/transparent" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:id="@id/cr" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="?br" app:popupTheme="@style/dd" />
+    </android.support.design.widget.AppBarLayout>
+</FrameLayout>

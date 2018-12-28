@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Gå til startsiden</string>
+    <string name="b">%1$s – %2$s</string>
+    <string name="c">%1$s – %2$s – %3$s</string>
+    <string name="d">Gå opp</string>
+    <string name="e">Flere alternativer</string>
+    <string name="f">Ferdig</string>
+    <string name="g">Se alle</string>
+    <string name="h">Velg en app</string>
+    <string name="i">AV</string>
+    <string name="j">PÅ</string>
+    <string name="k">Søk …</string>
+    <string name="l">Slett søket</string>
+    <string name="m">Søkeord</string>
+    <string name="n">Søk</string>
+    <string name="o">Utfør søket</string>
+    <string name="p">Talesøk</string>
+    <string name="q">Del med</string>
+    <string name="r">Del med %s</string>
+    <string name="s">Skjul</string>
+    <string name="t">Slå på</string>
+    <string name="u">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
+    <string name="v">Slå på Google Play-tjenester</string>
+    <string name="w">Installer</string>
+    <string name="x">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
+    <string name="y">Installer Google Play-tjenester</string>
+    <string name="z">Google Play Tjenester-feil</string>
+    <string name="a0">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="a1">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
+    <string name="a2">Oppdater</string>
+    <string name="a3">%1$s kjører ikke med mindre du oppdaterer Google Play Tjenester.</string>
+    <string name="a4">Oppdater Google Play-tjenester</string>
+    <string name="a5">%1$s kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå.</string>
+    <string name="a6">Du må installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.</string>
+    <string name="a7">Åpne på telefonen</string>
+    <string name="a8">Logg på</string>
+    <string name="a9">Logg på med Google</string>
+    <string name="a_">Søk</string>
+    <string name="aa">999+</string>
+</resources>

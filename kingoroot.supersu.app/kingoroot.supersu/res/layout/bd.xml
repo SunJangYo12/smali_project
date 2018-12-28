@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:theme="@style/i4" android:background="@drawable/el" android:layout_width="fill_parent" android:layout_height="192.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.AppCompatTextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@id/gc" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginBottom="20.0dip" android:text="@string/ax" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/bq" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/cm">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/f2" android:layout_width="@dimen/cn" android:layout_height="@dimen/cn" android:layout_margin="8.0dip" android:src="@drawable/fh" android:scaleType="fitCenter" />
+            <TextView android:textSize="@dimen/fg" android:textColor="@color/d_" android:id="@id/ew" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ee" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:textSize="@dimen/e7" android:textColor="@color/d_" android:id="@id/f3" android:padding="@dimen/dt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ef" />
+            <TextView android:textSize="@dimen/e7" android:textColor="@color/d_" android:padding="@dimen/dt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ed" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/e6">
+            <ImageView android:id="@id/f4" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/cl" android:layout_marginRight="@dimen/cl" android:src="@drawable/fi" android:layout_weight="1.0" />
+            <ImageView android:id="@id/f5" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/cl" android:layout_marginRight="@dimen/cl" android:src="@drawable/fj" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

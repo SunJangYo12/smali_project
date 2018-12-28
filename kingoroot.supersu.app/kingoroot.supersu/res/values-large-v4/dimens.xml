@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="a1">440.0dip</dimen>
+    <item type="dimen" name="a2">60.000004%</item>
+    <item type="dimen" name="a3">90.0%</item>
+    <item type="dimen" name="a4">60.000004%</item>
+    <item type="dimen" name="a5">90.0%</item>
+    <item type="dimen" name="a6">54.999996%</item>
+    <item type="dimen" name="a7">79.99999%</item>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/bl" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="15.0dip" android:layout_marginBottom="10.0dip">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="5.0">
+            <com.kingouser.com.customview.ProgressieRound android:layout_gravity="center" android:id="@id/eq" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <TextView android:id="@id/er" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/am" style="@style/MWidget.TextView.Boost.Des" />
+                <TextView android:id="@id/es" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/an" style="@style/MWidget.TextView.Boost.Data" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <com.pureapps.cleaner.view.ShadowLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/cp" android:layout_marginRight="@dimen/cp" app:sl_cornerRadius="@dimen/ct" app:sl_dy="3.0dip">
+                    <com.pureapps.cleaner.view.FlashButton android:id="@id/et" android:visibility="visible" android:text="@string/al" android:transitionName="@string/ar" style="@style/MWidget.Button.Main.Bg" />
+                </com.pureapps.cleaner.view.ShadowLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

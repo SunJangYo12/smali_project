@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/ee"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ga" android:paddingLeft="@dimen/fk" android:paddingRight="@dimen/fk" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/g1" android:layout_width="@dimen/ef" android:layout_height="@dimen/ef" android:layout_margin="@dimen/fk" />
+        <TextView android:id="@id/ew" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fk" android:layout_weight="1.0" style="@style/MWidget.TextView.IgnoreList.Title" />
+        <CheckBox android:id="@id/by" android:padding="@dimen/fl" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fk" android:button="@drawable/bo" />
+    </LinearLayout>
+    <View android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/cj" android:layout_marginRight="@dimen/cj" />
+</LinearLayout>

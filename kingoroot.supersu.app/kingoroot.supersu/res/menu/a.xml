@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@id/iq" android:checkableBehavior="single">
+        <item android:icon="@drawable/ek" android:id="@id/ir" android:checked="false" android:title="@string/bs" />
+        <item android:icon="@drawable/fm" android:id="@id/is" android:checked="false" android:title="@string/bu" app:actionLayout="@layout/be" />
+        <item android:icon="@drawable/em" android:id="@id/it" android:checked="false" android:title="@string/bt" />
+        <item android:icon="@drawable/eo" android:id="@id/iu" android:checked="false" android:title="@string/bw" app:actionLayout="@layout/bf" />
+    </group>
+    <group android:id="@id/iv" android:checkableBehavior="single">
+        <item android:icon="@drawable/en" android:id="@id/iw" android:checked="false" android:title="@string/bv" />
+        <item android:icon="@drawable/ej" android:id="@id/ix" android:checked="false" android:title="@string/br" />
+    </group>
+</menu>
